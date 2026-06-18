@@ -1,0 +1,55 @@
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and local workspace files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+*~
+~$*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependency and build caches, in case tooling is added later
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/cache/
+dist/
+build/
+coverage/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local generated output and preview sheets
+output/
+**/*contact_sheet*.jpg
+**/*contact_sheet*.jpeg
+**/*contact_sheet*.png

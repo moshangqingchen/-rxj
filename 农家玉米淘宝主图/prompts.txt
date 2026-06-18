@@ -1,0 +1,59 @@
+[01] 2026-06-17T11:11:36.600Z ig_0b1996e7c9147e40016a3280a31edc81918493e97407999f3f
+Use case: ads-marketing
+Asset type: Taobao ecommerce main image base, square 1:1
+Primary request: premium photorealistic product advertising image for fresh farmhouse corn, no text.
+Scene/backdrop: warm clean rural farm tabletop with a subtle harvest atmosphere, light neutral cream background, a hint of green corn leaves and woven basket texture.
+Subject: several fresh yellow corn ears, some partly peeled with vivid plump kernels, dewy fresh surface, natural husks, product must look abundant and appetizing.
+Style/medium: high-end ecommerce product photography, realistic, polished but natural.
+Composition/framing: square 1:1, main corn pile large and centered-lower, strong foreground product focus, clean negative space in the upper left and upper right for later headline and badges, no cropping of the corn.
+Lighting/mood: bright soft studio daylight mixed with warm farm-market mood, crisp highlights, appetizing freshness.
+Color palette: golden yellow corn, fresh green husks, clean off-white background, small rustic accents.
+Constraints: no text, no logos, no trademarks, no watermark, no random labels, no people faces, no distorted corn, no plastic-looking kernels.
+
+[02] 2026-06-17T11:12:45.781Z ig_0b1996e7c9147e40016a3280e941b48191bd9b46cb2eefe33a
+Use case: ads-marketing
+Asset type: Taobao ecommerce main image base, square 1:1
+Primary request: premium close-up product image for fresh farmhouse corn kernels, no text.
+Scene/backdrop: clean light kitchen/farm table background with soft cream and pale green tones, minimal props.
+Subject: extreme close-up of peeled fresh yellow corn ears, juicy plump kernels with tiny water droplets, a few green husks framing the product, kernels uniform and naturally glossy.
+Style/medium: photorealistic macro ecommerce food photography, high detail, appetizing.
+Composition/framing: square 1:1, corn fills the lower and center area, beautiful macro texture, leave clean negative space along the top band and one side for later overlay text, no tight edge crop.
+Lighting/mood: bright soft daylight, crisp fresh highlights, clean premium feel.
+Color palette: golden yellow, fresh green, warm white.
+Constraints: no text, no logos, no trademarks, no watermark, no random packaging, no hands, no people, no strange kernel patterns, no overly saturated fake color.
+
+[03] 2026-06-17T11:14:08.322Z ig_0b1996e7c9147e40016a32812e5be88191aa5ec4052c0bb19b
+Use case: ads-marketing
+Asset type: Taobao ecommerce main image base, square 1:1
+Primary request: premium farmhouse corn origin and harvest advertising image, no text.
+Scene/backdrop: sunlit rural cornfield at harvest season, natural farm path and wooden crate, clean bright atmosphere.
+Subject: fresh yellow corn ears with green husks arranged in a rustic wooden crate in the foreground, a few ears partly peeled to show plump kernels; subtle corn plants in background; optional farmer hands only, no face.
+Style/medium: photorealistic premium farm-to-table ecommerce photography, natural yet polished.
+Composition/framing: square 1:1, product crate in lower center foreground, clear farm-origin background, reserve clean sky/soft background area at top for later headline and badges, balanced full composition.
+Lighting/mood: golden morning daylight, fresh harvest mood, trustworthy and premium.
+Color palette: golden corn, fresh greens, warm wood, clean blue-white sky.
+Constraints: no text, no logos, no trademarks, no watermark, no signs, no people faces, no machinery, no muddy messy look, no fake plastic corn.
+
+[04] 2026-06-17T11:15:17.419Z ig_0b1996e7c9147e40016a3281808ebc8191b62412991d25abe2
+Use case: ads-marketing
+Asset type: Taobao ecommerce main image base, square 1:1
+Primary request: premium cooked farmhouse corn appetizing serving scene, no text.
+Scene/backdrop: clean warm home kitchen table, subtle steam, ceramic plate, linen cloth, minimal rustic accents.
+Subject: freshly steamed yellow corn cut into sections and whole ears, glossy plump kernels, gentle steam rising, a small pat of melting butter optional but very subtle, looks sweet and tender.
+Style/medium: photorealistic premium food advertising photography, clean ecommerce polish.
+Composition/framing: square 1:1, corn served prominently in lower two-thirds, close enough to show texture, reserve clean warm negative space on upper left/top for later text, no cropped important food.
+Lighting/mood: warm soft kitchen daylight, delicious, cozy, premium.
+Color palette: golden yellow, warm white ceramic, soft green husk accents, light wood.
+Constraints: no text, no logos, no trademarks, no watermark, no people, no utensils covering the corn, no messy table, no excessive butter or sauce, no fake-looking steam.
+
+[05] 2026-06-17T11:16:35.157Z ig_0b1996e7c9147e40016a3281c5c42081919d645ab1e6ab2c57
+Use case: ads-marketing
+Asset type: Taobao ecommerce main image base, square 1:1
+Primary request: premium ecommerce packing and selected-grade farmhouse corn image, no text.
+Scene/backdrop: clean studio-farm tabletop with light neutral backdrop and subtle green accents.
+Subject: neat arrangement of fresh corn ears in a clean kraft cardboard produce box and woven basket, several peeled ears showing golden kernels, selected quality appearance, abundant but orderly.
+Style/medium: photorealistic premium ecommerce product photography, catalog-clean with natural farmhouse warmth.
+Composition/framing: square 1:1, box and corn centered in lower two-thirds, neat product set, leave clean negative space in upper area for later labels and selling-point copy, product not cropped.
+Lighting/mood: bright soft studio daylight, fresh, clean, trustworthy.
+Color palette: golden yellow, fresh green, kraft paper brown, warm white background.
+Constraints: no text, no logos, no trademarks, no watermark, no printed labels on packaging, no shipping company marks, no barcodes, no hands, no people, no messy packaging, no fake plastic look.
