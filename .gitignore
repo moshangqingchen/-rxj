@@ -53,3 +53,18 @@ output/
 **/*contact_sheet*.jpg
 **/*contact_sheet*.jpeg
 **/*contact_sheet*.png
+
+# Generated image/design exports
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.avif
+*.psd
+*.ai
+*.xcf
